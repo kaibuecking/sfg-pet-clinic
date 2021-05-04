@@ -1,4 +1,4 @@
-package model;
+package guru.springframework.sfgpetclinic;
 
 public class PetType {
     private String Name;
