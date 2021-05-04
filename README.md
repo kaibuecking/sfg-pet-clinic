@@ -1,2 +1,2 @@
 # sft-pet-clinic
-SFT guru.springframework.sfgpetclinic.Pet Clinic
+SFT guru.springframework.sfgpetclinic.model.Pet Clinic

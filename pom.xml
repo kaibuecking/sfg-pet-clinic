@@ -12,7 +12,7 @@
 	<version>0.0.3-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>sfg-pet-clinic</name>
-	<description>SFG guru.springframework.sfgpetclinic.Pet Clinic Project</description>
+	<description>SFG guru.springframework.sfgpetclinic.model.Pet Clinic Project</description>
     <modules>
         <module>pet-clinic-data</module>
 		<module>pet-clinic-web</module>
